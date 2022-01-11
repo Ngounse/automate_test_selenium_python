@@ -1,0 +1,188 @@
+[
+  {
+    "Property_Name": "WorldBridge Sport Village",
+    "Address": "Win Blvd Win, Bak Kaeng, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$62,993",
+    "Sql_m2": "$999/m\u00b2",
+    "Property Type": "1747",
+    "Property ID": "18",
+    "Title": "1 to 3",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": "Win Blvd Win"
+      },
+      "name": "Win Blvd Win",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.689690503883618,
+        "longitude": 104.87842746322178,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": "Win Blvd Win"
+        }
+      }
+    },
+    "Image": []
+  },
+  {
+    "Property_Name": "5 Bed, 4 Bath Villa for Sale in Chreav",
+    "Address": "Chreav, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$296,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "196774",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35613,
+        "longitude": 103.89469,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": []
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$635,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "12263",
+    "Title": "IPS Cambodia",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": []
+  },
+  {
+    "Property_Name": "4 Bed, 3 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$700,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "189972",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": []
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$550,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "139189",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": []
+  },
+  {
+    "Property_Name": "House for Sale in Tuek L'ak 2",
+    "Address": "Tuek L'ak 2, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$220,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "198619",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork",
+        "streetAddress": "138z"
+      },
+      "name": "138z",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.564624636297424,
+        "longitude": 104.8959317035384,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork",
+          "streetAddress": "138z"
+        }
+      }
+    },
+    "Image": []
+  }
+]
