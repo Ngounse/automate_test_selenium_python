@@ -57,7 +57,7 @@ def fun_get_estimate_form(wait):## get estimate form
     
 def fun_fill_estimate_form(*args, **kwargs):## fill estimate form
   
-  print(*args,'args')
+  # print(*args,'args')
   # print(args[0],'kwargs')
   var_property_type = FEM_ANY(By.NAME, "property_type")
   var_lot_type = FEM_ANY(By.NAME, "lot_type")
@@ -109,7 +109,7 @@ if var_check:
       fun_search_location(each_location['location'])
       fun_clear_location()
       fun_get_estimate_form(wait)
-      print(each_location)
+      # print(each_location)
       fun_fill_estimate_form(
         each_location['Type'],
         each_location['Lot_Type'],
