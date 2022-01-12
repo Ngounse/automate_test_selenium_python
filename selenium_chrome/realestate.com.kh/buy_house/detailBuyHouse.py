@@ -24,9 +24,6 @@ new_index = 0
 driver = webdriver.Chrome()
 driver.implicitly_wait(0.1)
 # driver.maximize_window()
-# FEM_ID = driver.find_elements_by_id
-# FEM_CLASS = driver.find_element_by_class_name
-# FEM_XP = driver.find_element_by_xpath
 FEM_ANY = driver.find_element
 save_file_name = 'detail_buy_house1.4'
 
@@ -49,17 +46,12 @@ for pageDetail in BUY_HOUSE:
     all_scripts = soup.find_all('script')
     
     new_index_a = 0
-    # img_src_arr = FEM_ANY(By.ID,'photos')
-    # if img_src_arr:
     for x in range(0,5):
       img_num = str(x)
       if x == 0 :
         img_src = FEM_ANY(By.XPATH,'.//*[@id="photos"]/div[1]/a/img')
         print(x,"==",img_src.get_attribute("src"),'image001')
         result_img = img_src.get_attribute("src")
-        # img_item = {
-        #   'Image': result_img
-        # }
         img_arr.append(result_img)
       else :
         try : 
@@ -70,10 +62,6 @@ for pageDetail in BUY_HOUSE:
           # //*[@id="photos"]/div[1]/div/a[4]/img
           # print(x,"==",img_src.get_attribute("src"),"image004")
           result_img = img_src.get_attribute("src")
-          # img_item = {
-          #   'Image': result_img
-          # }
-          print("xxxxxxxxxx>>>>>>",x)
           img_arr.append(result_img)
         except :
           print(x,"==","false")
