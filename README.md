@@ -20,6 +20,9 @@ put the file in the folder contain the project "automate_test_selenium_python"
 
 ### how to run script
 
-python3 fileName
-eg:
+python3 "fileName"
+
+```bash
 python3 selenium_chrome/Z1estimate/z1Estimate.py
+
+```
