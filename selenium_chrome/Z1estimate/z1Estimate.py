@@ -32,45 +32,47 @@ def fun_login():## login
   time.sleep(5)
   
 def fun_search_location(each_location):## search location
-  var_search = FEM_ANY(By.CSS_SELECTOR, "[placeholder='Search Z1Data Maps']")
-  var_search.send_keys(each_location)
-  var_search.send_keys(Keys.ENTER)
-  var_search.send_keys(Keys.ENTER)
-  time.sleep(3)
-  
+  try :
+    var_search = FEM_ANY(By.CSS_SELECTOR, "[placeholder='Search Z1Data Maps']")
+    var_search.send_keys(each_location)
+    var_search.send_keys(Keys.ENTER)
+    var_search.send_keys(Keys.ENTER)
+    time.sleep(3)
+  except Exception as err : print("Error ::")
 def fun_clear_location():## clear location
   time.sleep(3)
-  FEM_ANY(By.CSS_SELECTOR, "[data-test='btn-clear']").click()
+  try : FEM_ANY(By.CSS_SELECTOR, "[data-test='btn-clear']").click()
+  except Exception as err : print("Error ::::::")
   
 def fun_get_estimate_point():## get point estimate
   time.sleep(0.3)
-  FEM_ANY(By.CSS_SELECTOR, "[id='id-z1estimate-point']").click()
-
+  try :FEM_ANY(By.CSS_SELECTOR, "[id='id-z1estimate-point']").click()
+  except Exception as err: print("::: err")
+  
 def fun_get_estimate_form(wait):## get estimate form
   try : 
-    print(' ===== try to click on map ===== ')
-    ## click on center map
+    print(' ===== try to click on map ===== ')## click on center map
     wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "mapboxgl-canvas"))).click()
     # wait.until(EC.element_to_be_clickable((By.XPATH, "//*[name()='canvas']"))).click()
-  except Exception as err: 
-    print(' ===== false to click on map ===== ', err)
-    
-def fun_fill_estimate_form(*args, **kwargs):## fill estimate form
+  except Exception as err: print(' ===== false to click on map ===== ', err)
   
+def fun_fill_estimate_form(*args, **kwargs):## fill estimate form
   # print(*args,'args')
   # print(args[0],'kwargs')
-  var_property_type = FEM_ANY(By.NAME, "property_type")
-  var_lot_type = FEM_ANY(By.NAME, "lot_type")
-  var_land_width = FEM_ANY(By.NAME, "land_width")
-  var_land_length = FEM_ANY(By.NAME, "land_length")
-  var_year = FEM_ANY(By.NAME, "year")
-  var_btn_submit = FEM_ANY(By.CSS_SELECTOR, "[type='submit']")
-  
-  var_property_type.send_keys(args[0])
-  var_lot_type.send_keys(args[1])
-  var_land_width.send_keys(args[2])
-  var_land_length.send_keys(args[3])
   try :
+    var_property_type = FEM_ANY(By.NAME, "property_type")
+    var_lot_type = FEM_ANY(By.NAME, "lot_type")
+    var_land_width = FEM_ANY(By.NAME, "land_width")
+    var_land_length = FEM_ANY(By.NAME, "land_length")
+    var_year = FEM_ANY(By.NAME, "year")
+   
+    var_btn_submit = FEM_ANY(By.CSS_SELECTOR, "[type='submit']")
+  
+    var_property_type.send_keys(args[0])
+    var_lot_type.send_keys(args[1])
+    var_land_width.send_keys(args[2])
+    var_land_length.send_keys(args[3])
+  
     var_bldg_width = FEM_ANY(By.NAME, "bldg_width")
     var_bldg_length = FEM_ANY(By.NAME, "bldg_length")
     var_total_bed = FEM_ANY(By.NAME, "total_bed")
@@ -82,23 +84,27 @@ def fun_fill_estimate_form(*args, **kwargs):## fill estimate form
     var_bldg_length.send_keys(args[6])
     var_total_bed.send_keys(args[11])
     var_total_ba.send_keys(args[12])
-  except Exception as err :
+    var_year.send_keys(2021)
+    time.sleep(0.3)
+    var_btn_submit.click()
+    time.sleep(1)
+  except Exception as err : print(" err::::")
     # print(err, '\n ----- error fill form ----- ')
-    print(" err::::")
-  var_year.send_keys(2021)
-  time.sleep(0.3)
-  var_btn_submit.click()
-  time.sleep(1)
+  
+def fun_get_estimate_price():## get estimate price
+  try:
+    var_estimate_price = FEM_ANY(By.CSS_SELECTOR, 'strong')
+    # print(var_estimate_price.text)
+  except Exception as err : print("err :")
   
 def fun_close_estimate_form():## fill estimate form
   time.sleep(2)
-  try:
-    FEM_ANY(By.CSS_SELECTOR, "[data-test='close-form']").click()
-    time.sleep(1)
-    FEM_ANY(By.CSS_SELECTOR, "[data-test='btn-close']").click()
-  except Exception as err :
-    print("Error")
-    
+  try: FEM_ANY(By.CSS_SELECTOR, "[data-test='close-form']").click()
+  except Exception as err : print("Error cf::::")
+  time.sleep(1)
+  try: FEM_ANY(By.CSS_SELECTOR, "[data-test='btn-close']").click()
+  except Exception as err : print("Error bc::::")
+  
 if var_check:
   print('true')
   fun_login()
@@ -125,6 +131,7 @@ if var_check:
         each_location['Bedroom'],
         each_location['Bathroom'])
       time.sleep(5)
+      fun_get_estimate_price()
       fun_close_estimate_form()
       time.sleep(3)
     ## wait 1 min
