@@ -1,0 +1,4552 @@
+[
+  {
+    "Property_Name": "WorldBridge Sport Village",
+    "Address": "Win Blvd Win, Bak Kaeng, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$62,993",
+    "Sql_m2": "$999/m\u00b2",
+    "Property Type": "1747",
+    "Property ID": "18",
+    "Title": "1 to 3",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": "Win Blvd Win"
+      },
+      "name": "Win Blvd Win",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.689690503883618,
+        "longitude": 104.87842746322178,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": "Win Blvd Win"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/c5eeceb5-4270-48be-b860-1b2c143f8fb0_woxcaxo_exiparf_u2fpyr7_dajdkql_cjxyoem_1ljuyzq_x4zvtej_FsR3CqC-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/view-3_yimpil9_4anDmlL-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/option-1_v2_ge4opym_ETjNQlC-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/7ea26344-4a73-40e9-89af-28e5dd6bd403_ltd3ya4_iztxipa_gnb6uyo_ggfdtpz_a8htzbw_kreol5l_8HLT2aS-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/worldbridge-sport-village-main-brochure_fa-120321-17-1_6zedrnc_5zv2r9w_fcuzktd_gzukmzk_ouqc537_fvjjb3q_lopnq3l_lss5v6o_gaaw40k_tcigcht_1bbbv7v_26jafka_u0fn29q_nk9uk8g_q5chbju_evvh60i_j9twnu8_sm1xqib_grjuhkw_va3han9_luus07x_vs_WSHueSD-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/new-developments/worldbridge-sport-village/"
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$550,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "139189",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/9528-01-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/139189-139189_78677952_tFzmj6Y-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/139189-139189_78677963_wGeBY3s-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/139189-139189_78677972_ienTWVg-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/139189-139189_78677981_ehxi0PU-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/3-bed-4-bath-villa-139189/"
+  },
+  {
+    "Property_Name": "5 Bed, 4 Bath Villa for Sale in Chreav",
+    "Address": "Chreav, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$296,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "196774",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35613,
+        "longitude": 103.89469,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/196774-196774_99928057-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/196774-196774_99928058-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/196774-196774_99928059-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/196774-196774_99928062_SICPNNn-thumbnail-400x300-70.jpeg",
+      "https://img.youtube.com/vi/XL18uDmgrKg/0.jpg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chreav/5-bed-4-bath-villa-196774/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$635,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "12263",
+    "Title": "IPS Cambodia",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/195868-195868_99558061-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/195868-195868_91399226-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/195868-195868_91399229-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/195868-195868_91399231-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/195868-195868_91399232-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/4-bed-5-bath-villa-195868/"
+  },
+  {
+    "Property_Name": "4 Bed, 3 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$700,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "189972",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/189972-189972_97154202-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/189972-189972_97154203-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/189972-189972_97154204-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/189972-189972_97154206-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/189972-189972_97154207-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/4-bed-3-bath-villa-189972/"
+  },
+  {
+    "Property_Name": "House for Sale in Tuek L'ak 2",
+    "Address": "Tuek L'ak 2, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$220,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "198619",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork",
+        "streetAddress": "138z"
+      },
+      "name": "138z",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.564624636297424,
+        "longitude": 104.8959317035384,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork",
+          "streetAddress": "138z"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-23_11-49-50-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-23_11-49-50-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-23_11-49-51-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-23_11-49-51-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-23_11-49-51-3-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/tuek-lak-2/138z-198619/"
+  },
+  {
+    "Property_Name": "House for Sale in Tuol Sangke",
+    "Address": "Tuol Sangke, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$122,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "198436",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.588352564433379,
+        "longitude": 104.90583137231829,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1639987272177-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1639987272432-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1639987272294-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1639987272065-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1639987272364-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/tuol-sangke/house-198436/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath Villa for Sale in Sala Kamraeuk",
+    "Address": "Dabest Properties, Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$590,000",
+    "Sql_m2": "$513/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV945",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest Properties"
+      },
+      "name": "Dabest Properties",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.360620307377928,
+        "longitude": 103.85925805808381,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest Properties"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/untitled-9-of-10_og3jK7a-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/untitled-10-of-10_Jor0esL-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/untitled-1-of-10_9dfv9fx_HQqDNDT-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/untitled-3-of-10_jfzckxv_Ap46CZE-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/untitled-8-of-10_1zzfxlg_gwn1kbi-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/dabest-properties-186178/"
+  },
+  {
+    "Property_Name": "6 Bed, 6 Bath Villa for Sale in Sala Kamraeuk",
+    "Address": "DABEST PROPERTIES, Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$550,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV86",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "DABEST PROPERTIES"
+      },
+      "name": "DABEST PROPERTIES",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.362312812924984,
+        "longitude": 103.85949000209462,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "DABEST PROPERTIES"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a3292-6_kkdfac6-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a3313-9_w0jerpq-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a3329-15_gzzxekg-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a3270-4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a3274-5_oebasp0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/dabest-properties-114460/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Twin Villa for Sale in Prey Sa",
+    "Address": "Prey Sa, Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$285,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "195309",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.48,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/21102607043e9cef-4bedroomforsale-34-1-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/2110260652c5e4ad-4bedroomforsale-28-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/2110260651292f73-4bedroomforsale-4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/21102606513a9e70-4bedroomforsale-6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-11/211026065197628a-4bedroomforsale-5-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/prey-sa/4-bed-5-bath-twin-villa-195309/"
+  },
+  {
+    "Property_Name": "House for Sale in Stueng Mean chey",
+    "Address": "Stueng Mean chey, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$300,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197288",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.54190613791883,
+        "longitude": 104.87692191309623,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1_ZUVOeuy-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/3_EwApcwX-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/6_n9KpJJz-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4_XC9HICU-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/5_UYZyUZ0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/stueng-mean-chey/house-197288/"
+  },
+  {
+    "Property_Name": "House for Sale in Chaom Chau",
+    "Address": "Chaom Chau, Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$140,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197287",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.513409300757758,
+        "longitude": 104.86578793442561,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-54-06-3-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-54-06-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-54-05-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-54-06-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-54-05-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chaom-chau/house-197287/"
+  },
+  {
+    "Property_Name": "House for Sale in Stueng Mean chey",
+    "Address": "Stueng Mean chey, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$105,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197280",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.53191086893601,
+        "longitude": 104.8903867132878,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-53-22-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-53-23-3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-53-23-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-53-24-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-53-24-2-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/stueng-mean-chey/house-197280/"
+  },
+  {
+    "Property_Name": "House for Sale in Srah Chak",
+    "Address": "Srah Chak, Daun Penh, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$153,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197265",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Daun Penh"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.586522050102843,
+        "longitude": 104.91408133089669,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Daun Penh"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-41-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-45-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-43-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-43-3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-43-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/srah-chak/house-197265/"
+  },
+  {
+    "Property_Name": "House for Sale in Boeung Tumpun",
+    "Address": "Boeung Tumpun, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$100,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197263",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey",
+        "streetAddress": "    "
+      },
+      "name": "    ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.532871264970382,
+        "longitude": 104.91168875385773,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey",
+          "streetAddress": "    "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-25-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-24-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-24-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-22-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-23-2-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-tumpun/house-197263/"
+  },
+  {
+    "Property_Name": "House for Sale in Ta Khmao",
+    "Address": "Ta Khmao, Ta Khmau, Kandal",
+    "Prefix": "For sale",
+    "Price": "$95,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197257",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Kandal",
+        "addressLocality": "Ta Khmau"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.442797535829214,
+        "longitude": 104.96791005617217,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Kandal",
+          "addressLocality": "Ta Khmau"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-02-2-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-04-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-04-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-01-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-06_13-52-01-3-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/ta-khmao/house-197257/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath Villa for Sale in Kandaek",
+    "Address": "Properties DABEST, Kandaek, Prasat Bakong, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$166,000",
+    "Sql_m2": "$692/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV848",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Prasat Bakong",
+        "streetAddress": "Properties DABEST"
+      },
+      "name": "Properties DABEST",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.350778341301265,
+        "longitude": 103.9041982533231,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Prasat Bakong",
+          "streetAddress": "Properties DABEST"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/1y3a5831-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5836-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5837-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5839-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5844-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kandaek/properties-dabest-154740/"
+  },
+  {
+    "Property_Name": "2 Bed, 2 Bath Villa for Sale in Svay Dankum",
+    "Address": "PROPERTIES DABEST, Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$193,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV827",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "PROPERTIES DABEST"
+      },
+      "name": "PROPERTIES DABEST",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.36,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "PROPERTIES DABEST"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/untitled-8604-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/untitled-8609_TFZ2gox-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5341_sqixp9l_efokwo4_vu3emhc_d2pursw_ea7ixsl_qroobti_Q4GBfeH-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5342_7qyzgoy_qp0wgj0_bf1aqut_fp0nuhg_ko97uka_egzykrs_R8UFY9U-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/1y3a5328_rqgmxet_nvjx9b4_kjma1eu_c3nbcj8_elovkqs_qi2tdjr_umAvfqV-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/properties-dabest-153486/"
+  },
+  {
+    "Property_Name": "Chankiri Palm Creek",
+    "Address": "Preaek Kampues, Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$149,888",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "Hard Title",
+    "Title": "4 to 4",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.444031380875813,
+        "longitude": 104.90534313983602,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/evening-at-chankiri-web-banner-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/chankiri-villa-klem-front-view-facade-1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/chankiri-villa-plous-front-view-facade-daytime2-1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/ub-1_wgetj52-thumbnail-400x300.png",
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/borey-ck_wmhojog-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/chankiri-palm-creek/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath House for Sale in WorldBridge Sport Village",
+    "Address": "WorldBridge Sport Village",
+    "Prefix": "For sale",
+    "Price": "$204,402",
+    "Sql_m2": "$1,362/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "9 months ago",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": "Blvd Win Win"
+      },
+      "name": "Blvd Win Win",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.690866678599818,
+        "longitude": 104.87807425787253,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": "Blvd Win Win"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/185-semid-villas-2_dpw0rze_p8kkfxf-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/bedroom_dlxnwyf_wv8ozvv_WhPj9tb-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/living-room_qqilk7x_hmelagr_D2ktaBW-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/185-sport-village-aerial-2_b21x58y_sm3nciw_ka1ngfw_usRiOM5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/wbsv-semi-d-villas-floor-plan_eng_fa_low-re-2-1_54rn7rv_yv8iar4_ou9ba8z_4ygm4mn_r56wuat_l9tazun_xialy0t_pcli2cr-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/new-developments/worldbridge-sport-village/4-bed-5-bath-house-160684/"
+  },
+  {
+    "Property_Name": "3 Bed, 5 Bath House for Sale in WorldBridge Sport Village",
+    "Address": "WorldBridge Sport Village",
+    "Prefix": "For sale",
+    "Price": "$132,298",
+    "Sql_m2": "$1,959/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "9 months ago",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": "Win Win Blvd"
+      },
+      "name": "Win Win Blvd",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.690215852011036,
+        "longitude": 104.87810511541022,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": "Win Win Blvd"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/185-row-house-2_twdasif_im5dzwq-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/dining_0rvlrbc_bbfsuap-thumbnail-400x300.png",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/bedroom-3_3t7qg8i_ynpqkjj-thumbnail-400x300.png",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/185-sport-village-aerial-2_ivbyl5u_ddmdfim-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/wbsv-row-hse-floor-plan_eng_fa_low-re-2_fvxbsrs_hstz8wi_ieytexm-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/new-developments/worldbridge-sport-village/3-bed-5-bath-house-160680/"
+  },
+  {
+    "Property_Name": "7 Bed, 8 Bath Villa for Sale in Phnom Penh Thmey",
+    "Address": "1974 , Phnom Penh Thmey, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$689,900",
+    "Sql_m2": "$1,690/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "158662",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": "1974 "
+      },
+      "name": "1974 ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.576698347999184,
+        "longitude": 104.87450693040535,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": "1974 "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/photo_2021-02-19_13-23-58_cid34rl-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/photo_2021-02-19_13-24-02_mhvvdiq-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/photo_2021-02-19_13-24-07_s7mffnh-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/photo_2021-02-19_13-24-12_cl93v9s-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-03/photo_2021-02-19_13-25-05_Bf1a5Fu-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/phnom-penh-thmey/1974-158662/"
+  },
+  {
+    "Property_Name": "Morgan Park Villa",
+    "Address": "Bak Kaeng, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$159,888",
+    "Sql_m2": "",
+    "Property Type": "317",
+    "Property ID": "243 m\u00b2 to 246 m\u00b2",
+    "Title": "5 to 5",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.704639344749083,
+        "longitude": 104.93984916292038,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/morganv3_gdkhdxy_vu7sutc_rtyujwx_tetmkkv_u2pbpys_8gbaqac_fbsgtel_283xnfz_1wn2rmz-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/morganv10_avozyww_ydhqhwk_jxsnsdq_aotgjc7_l32gwsc_da5ic3h_04ce2gf_qxwskv9_ewyj30r-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/morganv1_kk00ujy_dvfmsvn_zlgesyf_jmvrop5_g5mh7uo_6ghhgwy_s8nwwsq_9abgc07_uvnlrgp-thumbnail-400x300-70.jpeg",
+      "https://img.youtube.com/vi/yLwcKf1xWCQ/0.jpg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-08/morganv15_eoggyij_nsolnzt_35iodfn_po9rkqk_n0vggzu_qyr4rlm_rtgtuio_sicibdf_l0nkus8-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/morgan-park-villa/"
+  },
+  {
+    "Property_Name": "Borey Icon Kampot",
+    "Address": "Highway 3 National, Prey Khmum, Tuek Chhou, Kampot",
+    "Prefix": "For sale",
+    "Price": "$131,888",
+    "Sql_m2": "",
+    "Property Type": "152",
+    "Property ID": "209 m\u00b2 to 294 m\u00b2",
+    "Title": "Shophouse",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Kampot",
+        "addressLocality": "Tuek Chhou",
+        "streetAddress": "Highway 3 National"
+      },
+      "name": "Highway 3 National",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 10.647219246796496,
+        "longitude": 104.18980756865,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Kampot",
+          "addressLocality": "Tuek Chhou",
+          "streetAddress": "Highway 3 National"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/4h-sh-4f-1_1l6kvt7_1meeytn_xgroczu_ahqrf7o_wzz2oqv_0hlzrh1-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/4h-sh-main-road-1_occx8bp_vrnqyyy_kmuirmm_0gjyqum_illinud_jz900i0-thumbnail-400x300-70.jpeg",
+      "https://img.youtube.com/vi/TjTO-kONSi4/0.jpg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/20200112_e-brochure-mobile-15-page-001_sf8kcty_xbtch07_hwhnph5_c2cihaf-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-04/icon-kampot-new-master-plan-2_wnrvlbc_zbujsvc_zankplu-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/borey-icon-kampot/"
+  },
+  {
+    "Property_Name": "Borey Nadi by GC City",
+    "Address": "Preaek Lieb, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$143,900",
+    "Sql_m2": "",
+    "Property Type": "1140",
+    "Property ID": "Hard Title",
+    "Title": "4 to 5",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.692053787737606,
+        "longitude": 104.92660084528325,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/twin-house_semi-aerial-1b_dkuwau7_owdkkeu_iunwnkw_dxtx8k5-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/016-nada-v1-1_czarkvz-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/shophouse_semi-aerial-3_ybz9nzi_owbglfr_vnwpxly_b7mxd3t-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/catalog_english_page_19_c96csqv_pwxjd3b_ulah77n_cowtcsl_on075ea_mdlrodj_tky297y_fwdajoi_mjkoyfo_mkpxnfn_e10qiln-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-05/catalog_english_page_02_bt54jzp_1vfg19r_vlkrsda_ijb2nvb_q89t6rl_lkjqzev_xc4jvbq_eiaaytl_kyiyt0d_ejjyvd0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/borey-nadi-by-gc-city/"
+  },
+  {
+    "Property_Name": "The Eco Residence",
+    "Address": "Krang Thnong, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$107,000",
+    "Sql_m2": "",
+    "Property Type": "72",
+    "Property ID": "Modern style",
+    "Title": "Shophouse, Shophouse",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.575436118768721,
+        "longitude": 104.82292210679759,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/e08d39f1-6371-47eb-a597-54378610a6fe_o8nso3s_m38qezn_bdgnpbf_ocsgcmj_vht658l_9lzgw2q-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/eco-residence-sen-sok-clients-kit-2_qyi6eep_G4mErPR-thumbnail-400x300-70.jpeg",
+      "https://img.youtube.com/vi/e65YzR7TDN0/0.jpg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/eco-residence-sen-sok-clients-kit-7_l9qvmn0_Vit12rz-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-02/eco-residence-sen-sok-clients-kit-11_mdrxl04_LwxBouF-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/the-eco-residence/"
+  },
+  {
+    "Property_Name": "Borey Williams",
+    "Address": "Kamboul, Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$67,500",
+    "Sql_m2": "",
+    "Property Type": "165",
+    "Property ID": "88 m\u00b2 to 400 m\u00b2",
+    "Title": "Villa, Villa",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.579632360616316,
+        "longitude": 104.76521618090311,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/img_1449_ni7beea_nqklq4a_nz4uo8e_8tstx74_52fqfmy_79le9f3_oecaqjy_yt3zrn4_9k2smox_KVhtmzk-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/bw-9_mcy8ybx_HNcaUR3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/oasis-villa-exterior-rendering_page_2_n71q4t4_upyf67r_yowcgm0_hlmhszd_qjcztkz_jo1piw4_juqbl72_ypgjvlb_gqiwswc_qXPxviE-thumbnail-400x300.png",
+      "https://img.youtube.com/vi/20o2Hda5oLM/0.jpg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/jasmine-villa-3d-ground-floor-top-view_dijf2d5_u1k1lkw_fczgxi2_ujsfeql_q9zju6r_0uyywa1_ibefg6y_yh8hg6d_9z4mykv_vftn14i_UVPj1aV-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/boreys/borey-williams/"
+  },
+  {
+    "Property_Name": "8 Bed, 9 Bath Villa for Sale in BKK 1",
+    "Address": "BKK 1, Chamkarmon, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$7,000,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "1 day ago",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chamkarmon",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chamkarmon",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/villa-for-rs_fprc6BS-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/villa-for-rs-2_e0Npdc5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/villa-for-rs-5_jGv28jJ-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/villa-for-rs-7_U3Jf3Zb-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/villa-for-rs-3_BYcccn3-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/bkk-1/8-bed-9-bath-villa-199652/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath House for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$85,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV864",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.36,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0165-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_11-10-24-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_11-10-25-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_11-10-24-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_11-10-24-4-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/3-bed-3-bath-house-199585/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Phnom Penh Thmey",
+    "Address": "Phnom Penh Thmey, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$410,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199584",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.57561,
+        "longitude": 104.92025,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04088-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04090-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04091-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.92025,11.57561)/104.92025,11.57561,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/phnom-penh-thmey/4-bed-5-bath-villa-199584/"
+  },
+  {
+    "Property_Name": "4 Bed, 4 Bath House for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$90,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV865",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.36,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_10-47-24-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_10-47-20-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_10-47-17-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_10-47-18-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-12-30_10-47-23-2-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/4-bed-4-bath-house-199583/"
+  },
+  {
+    "Property_Name": "8 Bed, 11 Bath Villa for Sale in Phnom Penh Thmey",
+    "Address": "Phnom Penh Thmey, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$180,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "199582",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.57561,
+        "longitude": 104.92025,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04070-edited_750cA9c-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04072_2MW3bGB-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04074_qR0hvz2-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.92025,11.57561)/104.92025,11.57561,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/phnom-penh-thmey/8-bed-11-bath-villa-199582/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath Villa for Sale in Kandaek",
+    "Address": "Kandaek, Prasat Bakong, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$185,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "DV867",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Prasat Bakong",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.285486,
+        "longitude": 103.92468,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Prasat Bakong",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/0d9a7418-edit-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/0d9a7421-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/0d9a7422-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/0d9a7431-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/0d9a7432-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kandaek/3-bed-3-bath-villa-199571/"
+  },
+  {
+    "Property_Name": "6 Bed, 7 Bath House for Sale in Sla Kram",
+    "Address": "Sla Kram, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$460,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV868",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.362254702481238,
+        "longitude": 103.871462694488,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-11-25_09-42-14-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-11-25_09-42-12-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-11-25_09-42-13-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-11-25_09-42-14-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/photo_2021-11-25_09-42-15-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sla-kram/6-bed-7-bath-house-199568/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$650,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "13404",
+    "Title": "IPS Cambodia",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198317-198317_100550096-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198317-198317_100550086-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198317-198317_100550087-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198317-198317_100550097_zBpz11s-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198317-198317_100550089-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/4-bed-5-bath-villa-198317/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath Villa for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$115,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "13167",
+    "Title": "IPS Cambodia",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35958,
+        "longitude": 103.84547,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198315-198315_100584188-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198315-198315_100584187-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198315-198315_100584185-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198315-198315_100584186-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198315-198315_100584189-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/3-bed-3-bath-villa-198315/"
+  },
+  {
+    "Property_Name": "7 Bed, 6 Bath Villa for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$3,500,000",
+    "Sql_m2": "$1,300/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199540",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04048-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04042-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04043-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04044-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04049-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/7-bed-6-bath-villa-199540/"
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath House for Sale in Veal Sbov",
+    "Address": "Veal Sbov, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$350,000",
+    "Sql_m2": "$400/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "199539",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.96,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04040-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04036-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04028-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04029-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04032-edited-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/veal-sbov/3-bed-4-bath-house-199539/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Veal Sbov",
+    "Address": "Veal Sbov, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$500,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "199537",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.96,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04021-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04018-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04014-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04012-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc04013-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/veal-sbov/2-bed-3-bath-house-199537/"
+  },
+  {
+    "Property_Name": "8 Bed, 9 Bath Villa for Sale in Preaek Aeng",
+    "Address": "Preaek Aeng, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$950,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199536",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03994-edited_cPccIB1-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03997-edited_qbKGSXQ-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03999_Z6iOAJz-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03998_NPWHrqW-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/preaek-aeng/8-bed-9-bath-villa-199536/"
+  },
+  {
+    "Property_Name": "6 Bed, 7 Bath House for Sale in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$500,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "199535",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03990-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03980-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03981-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03987-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03988-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/6-bed-7-bath-house-199535/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath Villa for Sale in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$130,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199533",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03975-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03976-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03977-edited-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/3-bed-3-bath-villa-199533/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Preaek Aeng",
+    "Address": "Preaek Aeng, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$280,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "199528",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03945-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03947-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03963_5xH8zjn-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03964_6RDQsEk-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/preaek-aeng/4-bed-5-bath-villa-199528/"
+  },
+  {
+    "Property_Name": "8 Bed, 8 Bath Villa for Sale & Rent in Boeung Kak 2",
+    "Address": "Boeung Kak 2, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$3,900,000",
+    "Sql_m2": "$5,572/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "5 days ago",
+    "Title": "199492",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.575676051188184,
+        "longitude": 104.8952169671767,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/456b9e3f-3f0b-4d31-b0ab-29b33d0a2e79-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/d0acd45f-9913-4974-acd2-943e8d4cd331-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/9c7a2992-ba84-47da-8c19-9849d25e1832-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.8952169671767,11.575676051188184)/104.8952169671767,11.575676051188184,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-kak-2/8-bed-8-bath-villa-199492/"
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath House for Sale in Sala Kamraeuk",
+    "Address": "Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$520,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV862",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_7147-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_7107-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_7098-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_7100-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_7104-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/3-bed-4-bath-house-199409/"
+  },
+  {
+    "Property_Name": "8 Bed, 7 Bath Twin Villa for Sale in Chrang Chamres I",
+    "Address": "Chrang Chamres I, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$850,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Terrace",
+    "Property ID": "199406",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03930-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03931-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03932-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.9,11.59)/104.9,11.59,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-i/8-bed-7-bath-twin-villa-199406/"
+  },
+  {
+    "Property_Name": "6 Bed, 7 Bath Villa for Sale in Boeung Kak 2",
+    "Address": "Boeung Kak 2, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$1,900,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199405",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.57,
+        "longitude": 104.89,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03878-edited_uF2Cytr-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03881-edited_YrW4TcH-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03879_9mUR1UA-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03880_x9ofDgc-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.89,11.57)/104.89,11.57,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-kak-2/6-bed-7-bath-villa-199405/"
+  },
+  {
+    "Property_Name": "10 Bed, 10 Bath Villa for Sale in Krang Thnong",
+    "Address": "Krang Thnong, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$2,500,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199404",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.89,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03870-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03867-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03860-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03869-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03859-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/krang-thnong/10-bed-10-bath-villa-199404/"
+  },
+  {
+    "Property_Name": "8 Bed, 9 Bath Villa for Sale in Kakab 1",
+    "Address": "Kakab 1, Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$2,000,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199403",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03845-edited_1CYL1Wo-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03847-edited_tjxKyVO-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03850-edited_0gVKbew-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03856_LjwXVa8-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03857_zFzALZv-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kakab-1/8-bed-9-bath-villa-199403/"
+  },
+  {
+    "Property_Name": "5 Bed, 5 Bath Villa for Sale in Ou Baek K'am",
+    "Address": "Ou Baek K'am, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$1,600,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199402",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.89,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03809-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03808-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03805-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03811-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03812-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/ou-baek-kam/5-bed-5-bath-villa-199402/"
+  },
+  {
+    "Property_Name": "4 Bed, 4 Bath House for Sale in Svay Dankum",
+    "Address": "Svay Dankum, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$75,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV860",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.36,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0373-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0368-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0377-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0383-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0395-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/svay-dankum/4-bed-4-bath-house-199394/"
+  },
+  {
+    "Property_Name": "Twin Villa for Sale in Preaek Ta Sek",
+    "Address": "Preaek Ta Sek, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$650,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "1 week ago",
+    "Title": "199375",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58751,
+        "longitude": 104.92248,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199375-199375_100811069-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199375-199375_100811073-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199375-199375_100811070-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199375-199375_100811067-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199375-199375_100811068-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/preaek-ta-sek/twin-villa-199375/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath House for Sale in Preaek Lieb",
+    "Address": "Preaek Lieb, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$195,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "199250",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03692-edited_IN02gw5-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03694-edited_ZkniMu4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03689_x2ZWFzG-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03690_qibe3wZ-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.93,11.58)/104.93,11.58,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/preaek-lieb/4-bed-5-bath-house-199250/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Twin Villa for Sale in Preaek Lieb",
+    "Address": "Preaek Lieb, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$350,000",
+    "Sql_m2": "$1,100/m\u00b2",
+    "Property Type": "Terrace",
+    "Property ID": "199249",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03680-edited_vRVViwB-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03676-edited_zu8e8D6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03678_eCjOelq-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/dsc03677_V6rNCrg-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.93,11.58)/104.93,11.58,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/preaek-lieb/4-bed-5-bath-twin-villa-199249/"
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath House for Sale in Sala Kamraeuk",
+    "Address": "Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$850,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV856",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0136-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0137_UTj8cCb-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0138-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0143-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/img_0134_voanzmi-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/3-bed-4-bath-house-199235/"
+  },
+  {
+    "Property_Name": "5 Bed, 6 Bath House for Sale in Chroy Changvar",
+    "Address": "Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$235,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "1 week ago",
+    "Title": "199223",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58723,
+        "longitude": 104.92176,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199223-199223_100856210_eESkBIi-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199223-199223_100856214_8iEr8dz-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199223-199223_100856216-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199223-199223_100856212-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199223-199223_100856213-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chroy-changvar/5-bed-6-bath-house-199223/"
+  },
+  {
+    "Property_Name": "5 Bed, 5 Bath Twin Villa for Sale in Chroy Changvar",
+    "Address": "Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$350,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "1 week ago",
+    "Title": "199222",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58723,
+        "longitude": 104.92176,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199222-199222_100933067-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199222-199222_100855810-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199222-199222_100855815_Iffj9ia-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199222-199222_100855807-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/199222-199222_100855811-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chroy-changvar/5-bed-5-bath-twin-villa-199222/"
+  },
+  {
+    "Property_Name": "House for Sale in Wat Phnom",
+    "Address": "Wat Phnom, Daun Penh, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$700,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "199186",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Daun Penh",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.563109273251484,
+        "longitude": 104.92824175338194,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Daun Penh",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/1-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2022-01/2-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.92824175338194,11.563109273251484)/104.92824175338194,11.563109273251484,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/wat-phnom/house-199186/"
+  },
+  {
+    "Property_Name": "5 Bed, 5 Bath Villa for Sale in Chroy Changvar",
+    "Address": "Chroy Changvar, Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$650,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "11691",
+    "Title": "IPS Cambodia",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58751,
+        "longitude": 104.92248,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198307-198307_100550033-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198307-198307_100550025-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198307-198307_100550026-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198307-198307_100550035-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198307-198307_100550027-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chroy-changvar/5-bed-5-bath-villa-198307/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Chrang Chamres I",
+    "Address": "Chrang Chamres I, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$250,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "199149",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03637-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03634-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03635-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03636-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.9,11.59)/104.9,11.59,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-i/4-bed-5-bath-villa-199149/"
+  },
+  {
+    "Property_Name": "Villa for Sale in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$195,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "1 week ago",
+    "Title": "199064",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.523767691705778,
+        "longitude": 104.95675662148341,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/2e7d65e7-5faa-47af-afe2-09e93962930d-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/5a1c426e-f988-4711-b570-0060da3eb311-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/84f9be41-61c3-444e-b3a5-37e53f310bf5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/3917e151-02af-4005-b0f8-cf4019af5ab1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/937bc9de-fe9b-401d-a9e8-f1a8749296e0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/villa-199064/"
+  },
+  {
+    "Property_Name": "5 Bed, 5 Bath Twin Villa for Sale in Chroy Changvar",
+    "Address": "Chroy Changvar, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$330,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "2 weeks ago",
+    "Title": "199015",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chroy Changvar"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.58723,
+        "longitude": 104.92176,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chroy Changvar"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/199015-199015_100810679-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/199015-199015_100810681-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/199015-199015_100810694-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/199015-199015_100810683-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/199015-199015_100810685_5Vw4myz-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chroy-changvar/5-bed-5-bath-twin-villa-199015/"
+  },
+  {
+    "Property_Name": "Villa for Sale in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$4,500,000",
+    "Sql_m2": "$3,200/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "2 weeks ago",
+    "Title": "199001",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.525335974370455,
+        "longitude": 104.9567971427823,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/84ba75c2-71fc-4782-9e68-2adcd2eda27c-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/faba63f2-b78e-4dfe-854d-318d14ec4dd9-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/6f591715-b33b-4a68-aec7-ba6d0b8ba810-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/724d3b60-0ad8-4833-afa5-4741dd2316bd-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4494441d-f2e5-4129-b16c-ee71d56726c1-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/villa-199001/"
+  },
+  {
+    "Property_Name": "7 Bed, 6 Bath Villa for Sale in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$4,500,000",
+    "Sql_m2": "$3,215/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "2 weeks ago",
+    "Title": "198989",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.5234193930909,
+        "longitude": 104.95680894230328,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/5ff6a400-d7cc-43b6-bd2f-f0f2b46e57a7-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4361c082-0708-4805-91be-43ffcdeb1dab-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/c69b7d88-0eaa-4662-87a9-c0c3b9ee0125-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/2d494d90-9104-4eaa-9d5e-321a1eefe29e-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/27f49695-6d11-4399-a6f8-501ded317e45-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/7-bed-6-bath-villa-198989/"
+  },
+  {
+    "Property_Name": "8 Bed, 8 Bath Villa for Sale in Chrang Chamres I",
+    "Address": "Chrang Chamres I, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$540,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "198843",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03641-edited_gAgusiD-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03644_3yAppfQ-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03643_ZfLikT4-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.9,11.59)/104.9,11.59,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-i/8-bed-8-bath-villa-198843/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Villa for Sale in Chrang Chamres 2",
+    "Address": "Chrang Chamres 2, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$320,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "198842",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03598-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03595-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03593-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03594-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03590-edited-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-2/4-bed-5-bath-villa-198842/"
+  },
+  {
+    "Property_Name": "5 Bed, 6 Bath Villa for Sale in Chrang Chamres 2",
+    "Address": "Chrang Chamres 2, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$300,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "198841",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03571-edited_xZIFI3h-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03575-edited_hrUfCIj-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03577_dLW2xAn-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03579_ZetjjAN-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.9,11.59)/104.9,11.59,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-2/5-bed-6-bath-villa-198841/"
+  },
+  {
+    "Property_Name": "5 Bed, 4 Bath Villa for Sale in Boeung Tumpun 2",
+    "Address": "Boeung Tumpun 2, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$320,000",
+    "Sql_m2": "$15/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "2 weeks ago",
+    "Title": "198811",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.502075959227273,
+        "longitude": 104.9171586295966,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/d1ec844c-64a6-4e59-ae4c-89ac0596a719-thumbnail-750x562-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.9171586295966,11.502075959227273)/104.9171586295966,11.502075959227273,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-tumpun-2/5-bed-4-bath-villa-198811/"
+  },
+  {
+    "Property_Name": "8 Bed, 7 Bath Villa for Sale & Rent in Tuek L'ak 3",
+    "Address": "Tuek L'ak 3, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$2,500,000",
+    "Sql_m2": "$5/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "2 weeks ago",
+    "Title": "198800",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.557649580054676,
+        "longitude": 104.89660196559669,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/ecbff5ba-e91a-40ff-b679-2f19cf925958-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/281bdb16-d447-4952-a8ee-e8506de65294-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/a2cb2d4a-c0d2-4742-9186-a9d610a7e1d4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/d189d34d-dc33-4693-9ce7-f3dae18c40cc-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/594fe4a7-4c85-4d83-9a22-654b8c357cac-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/tuek-lak-3/8-bed-7-bath-villa-198800/"
+  },
+  {
+    "Property_Name": "7 Bed, 8 Bath Villa for Sale in Boeung Kak 1",
+    "Address": "Boeung Kak 1, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$1,850,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "198725",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03516-editeed-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03511-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03517-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03518-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.93,11.55)/104.93,11.55,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-kak-1/7-bed-8-bath-villa-198725/"
+  },
+  {
+    "Property_Name": "Villa for Sale in Kakab 1",
+    "Address": "Kakab 1, Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$465,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "APS-01353",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.56342,
+        "longitude": 104.85615,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198178-198178_100525253_eCU9p74-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198178-198178_100525274-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198178-198178_100525261-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198178-198178_100525323-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198178-198178_100525266-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kakab-1/villa-198178/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Twin Villa for Sale in Chrang Chamres I",
+    "Address": "Chrang Chamres I, Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$290,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "KEY-19-014153",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.59,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14153_photo-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14153_photo_2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14153_photo_3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14153_photo_4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14153_photo_5-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chrang-chamres-i/4-bed-5-bath-twin-villa-198658/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Kandaek",
+    "Address": "Kandaek, Prasat Bakong, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$120,000",
+    "Sql_m2": "$780/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "DV851",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Prasat Bakong",
+        "streetAddress": "   "
+      },
+      "name": "   ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.285486,
+        "longitude": 103.92468,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Prasat Bakong",
+          "streetAddress": "   "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9817-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9842-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9847-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9907-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_98421-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kandaek/2-bed-3-bath-house-198657/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath House for Sale in Kandaek",
+    "Address": "Kandaek, Prasat Bakong, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$190,000",
+    "Sql_m2": "$950/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "DV850",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Prasat Bakong",
+        "streetAddress": "   "
+      },
+      "name": "   ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.285486,
+        "longitude": 103.92468,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Prasat Bakong",
+          "streetAddress": "   "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9748-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9759-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9761-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9790-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9795-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kandaek/3-bed-3-bath-house-198575/"
+  },
+  {
+    "Property_Name": "5 Bed, 7 Bath Villa for Sale in BKK 3",
+    "Address": "BKK 3, Chamkarmon, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$3,500",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "198574",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chamkarmon",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55160826726113,
+        "longitude": 104.92147862196327,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chamkarmon",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4_kPCiEkq-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/5_KfZ4fTf-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/7_EyGSbW5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8_HhEhIB4-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/9_SAYqWHM-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/bkk-3/5-bed-7-bath-villa-198574/"
+  },
+  {
+    "Property_Name": "30 Bed, 30 Bath House for Sale in Kouk Chak",
+    "Address": "Kouk Chak, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$730,000",
+    "Sql_m2": "$1,175/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "DV844",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.37,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9377-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9315-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9348-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9353-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_9336-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kouk-chak/30-bed-30-bath-house-198568/"
+  },
+  {
+    "Property_Name": "Villa for Sale in Spean Thma",
+    "Address": "Spean Thma, Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$245,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "3 weeks ago",
+    "Title": "198553",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.46287,
+        "longitude": 104.87465,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198553-198553_100644890-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198553-198553_100644910-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198553-198553_100644985-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198553-198553_100644935-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198553-198553_100644954-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/spean-thma/villa-198553/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Dangkao",
+    "Address": "Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$86,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "3 weeks ago",
+    "Title": "198468",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.48217,
+        "longitude": 104.82211,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198468-198468_100644017-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198468-198468_100644018-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198468-198468_100644019-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198468-198468_100644020_RiBOtng-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198468-198468_100644021_VcctEQ0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/dangkao/2-bed-3-bath-house-198468/"
+  },
+  {
+    "Property_Name": "7 Bed, 8 Bath House for Sale in Tuek Thla",
+    "Address": "Tuek Thla, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$150,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "198177",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.89,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03285-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03287-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03282-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03283-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.89,11.55)/104.89,11.55,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/tuek-thla/7-bed-8-bath-house-198177/"
+  },
+  {
+    "Property_Name": "8 Bed, 7 Bath Villa for Sale in Toul Tum Poung 2",
+    "Address": "Toul Tum Poung 2, Chamkarmon, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$1,800,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "6273967",
+    "Title": "Five Key Realty",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chamkarmon"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55313,
+        "longitude": 104.90603,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chamkarmon"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198394-198394_99261994-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/198394-198394_99261995_ZFG7a93-thumbnail-400x300-70.jpeg",
+      "https://maps.googleapis.com/maps/api/staticmap?center=11.55,104.93&zoom=14&size=600x400&path=color:0x8DCA3F%7Cfillcolor:0x8DCA3F35%7Cweight:1%7C11.55899321605919,104.93000000000002%7C11.558905691904165,104.93127752292686%7C11.558644823159433,104.93253017796764%7C11.558215687812423,104.93373358144403%7C11.557626639243658,104.93486430865445%7C11.5568891435796,104.93590034995047%7C11.556017556442638,104.93682153923257%7C11.555028843449302,104.93760994651716%7C11.55394224990358,104.93825022692967%7C11.552778926121382,104.93872991933016%7C11.551561515685552,104.93903968876302%7C11.550313714651665,104.9391735080185%7C11.549059810288991,104.93912877478272%7C11.547824208337754,104.93890636210851%7C11.546630957985592,104.93851060123873%7C11.545503283808417,104.93794919713059%7C11.544463133783566,104.9372330783387%7C11.54353075216852,104.9363761841899%7C11.54272428555307,104.93539519340145%7C11.542059429746272,104.93430919942969%7C11.541549124364119,104.93313933886971%7C11.54120330105562,104.93190838013639%7C11.541028690261486,104.93064028042623%7C11.541028690261486,104.92935971957378%7C11.54120330105562,104.92809161986364%7C11.541549124364119,104.92686066113032%7C11.542059429746272,104.92569080057035%7C11.54272428555307,104.92460480659858%7C11.54353075216852,104.92362381581013%7C11.544463133783566,104.92276692166134%7C11.545503283808417,104.92205080286942%7C11.546630957985592,104.92148939876131%7C11.547824208337754,104.92109363789153%7C11.549059810288991,104.9208712252173%7C11.550313714651665,104.92082649198152%7C11.551561515685552,104.92096031123701%7C11.552778926121382,104.92127008066986%7C11.55394224990358,104.92174977307036%7C11.555028843449302,104.92239005348287%7C11.556017556442638,104.92317846076747%7C11.5568891435796,104.92409965004954%7C11.557626639243658,104.92513569134557%7C11.558215687812423,104.92626641855598%7C11.558644823159433,104.92746982203238%7C11.558905691904165,104.92872247707315%7C11.55899321605919,104.93000000000002&key=AIzaSyA4-kQKp3iC5Xx005ZoK6VNLV-sH0QimvI"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/toul-tum-poung-2/8-bed-7-bath-villa-198394/"
+  },
+  {
+    "Property_Name": "Shophouse for Sale in Phsar Kandal I",
+    "Address": "Phsar Kandal I, Daun Penh, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$700,000",
+    "Sql_m2": "$6,194/m\u00b2",
+    "Property Type": "Shophouse",
+    "Property ID": "APS-01264",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Daun Penh",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.56905,
+        "longitude": 104.92885,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Daun Penh",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-06/181237-181237_93419260_IKKB7qK-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-06/181237-181237_93419266_bvSijcI-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-06/181237-181237_93419271_OBDNtLJ-thumbnail-400x300-70.jpeg",
+      "https://maps.googleapis.com/maps/api/staticmap?center=11.57561,104.92025&zoom=14&size=600x400&path=color:0x8DCA3F%7Cfillcolor:0x8DCA3F35%7Cweight:1%7C11.584603216059186,104.92025%7C11.584515691897797,104.92152763985317%7C11.584254823134458,104.92278040953882%7C11.583825687758042,104.9239839231421%7C11.583236639151352,104.92511475381359%7C11.582499143443789,104.92615088988796%7C11.581627556261111,104.9270721634192%7C11.580638843223388,104.92786064278373%7C11.579552249638054,104.92850098170535%7C11.578388925824079,104.92898071790819%7C11.577171515366777,104.92929051558805%7C11.575923714323384,104.92942434699042%7C11.574669809963904,104.92937960957047%7C11.573434208028315,104.92915717646811%7C11.572240957703041,104.9287613793291%7C11.571113283561912,104.92819992382117%7C11.570073133579475,104.92748373950279%7C11.569140752009918,104.92662676697836%7C11.568334285439516,104.92564568649118%7C11.567669429673833,104.92455959324248%7C11.567159124325672,104.92338962575728%7C11.566813301041412,104.92215855452778%7C11.566638690259884,104.92089033893535%7C11.566638690259884,104.91960966106465%7C11.566813301041412,104.91834144547221%7C11.567159124325672,104.91711037424271%7C11.567669429673833,104.9159404067575%7C11.568334285439516,104.91485431350883%7C11.569140752009918,104.91387323302165%7C11.570073133579475,104.91301626049722%7C11.571113283561912,104.91230007617882%7C11.572240957703041,104.91173862067089%7C11.573434208028315,104.91134282353188%7C11.574669809963904,104.9111203904295%7C11.575923714323384,104.91107565300956%7C11.577171515366777,104.91120948441194%7C11.578388925824079,104.91151928209182%7C11.579552249638054,104.91199901829464%7C11.580638843223388,104.91263935721625%7C11.581627556261111,104.9134278365808%7C11.582499143443789,104.91434911011203%7C11.583236639151352,104.91538524618642%7C11.583825687758042,104.91651607685789%7C11.584254823134458,104.91771959046118%7C11.584515691897797,104.91897236014684%7C11.584603216059186,104.92025&key=AIzaSyA4-kQKp3iC5Xx005ZoK6VNLV-sH0QimvI"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/phsar-kandal-i/shophouse-181237/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath House for Sale in Boeung Tumpun",
+    "Address": "Boeung Tumpun, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$80,000",
+    "Sql_m2": "$10/m\u00b2",
+    "Property Type": "House",
+    "Property ID": "3 weeks ago",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.533036507746628,
+        "longitude": 104.90350323391766,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/30714f75-ae23-4dbf-8a44-583c0e5e3db1-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/085153cb-33aa-4609-8605-c6c78e59e13d-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/e5b24ef6-c730-4a72-9341-31c693333a1a-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/9c3c211d-3b6e-4e8d-81b6-4ca1bf824dc6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/5825fa39-2109-4c4a-b3bb-845f93ce2e42-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-tumpun/3-bed-3-bath-house-198245/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath Shophouse for Sale in Sala Kamraeuk",
+    "Address": "Dabest Properties , Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$250,000",
+    "Sql_m2": "$2,717/m\u00b2",
+    "Property Type": "Shophouse",
+    "Property ID": "DABEST SRV934",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest  Properties "
+      },
+      "name": "Dabest  Properties ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest  Properties "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-6-of-6-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-4-of-6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-1-of-6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-2-of-6-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-3-of-6-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/dabest-properties-198228/"
+  },
+  {
+    "Property_Name": "Villa for Sale & Rent in Boeung Kak 1",
+    "Address": "Boeung Kak 1, Toul Kork, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$2,600,000",
+    "Sql_m2": "$3,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "3 weeks ago",
+    "Title": "198214",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Toul Kork"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.582116890644379,
+        "longitude": 104.90156845169503,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Toul Kork"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/390db426-be29-45e6-aebf-af18a70eff7d-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/b394f96f-11b3-4492-97b4-79b8123514f0-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1dae4da6-c0d1-4c84-9662-a8a04d765419-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4a9ecd32-f180-4c75-83c3-b47336c4e4ff-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8b58ed45-a5cd-4461-91c5-236e88d7d0b0-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-kak-1/villa-198214/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Twin Villa for Sale in Prey Sa",
+    "Address": "Dabest Properties , Prey Sa, Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$305,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "DABEST PPV11",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao",
+        "streetAddress": "Dabest  Properties "
+      },
+      "name": "Dabest  Properties ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.48,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao",
+          "streetAddress": "Dabest  Properties "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-1-of-11-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-5-of-11-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-10-of-11-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-2-of-11-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-3-of-11-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/prey-sa/dabest-properties-198198/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Shophouse for Sale in Prey Sa",
+    "Address": "Prey Sa, Dangkao, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$195,000",
+    "Sql_m2": "",
+    "Property Type": "Shophouse",
+    "Property ID": "KEY-142-014147",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Dangkao",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.48,
+        "longitude": 104.9,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Dangkao",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-17_09-05-33-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-17_09-05-32-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-17_09-05-32-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-17_09-05-26-2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-17_09-05-26-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/prey-sa/4-bed-5-bath-shophouse-198194/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath House for Sale in Tuek Thla",
+    "Address": "Tuek Thla, Sen Sok, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$89,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "198175",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Sen Sok",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.89,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Sen Sok",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03276-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03278-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03279-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03280-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.89,11.55)/104.89,11.55,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/tuek-thla/4-bed-5-bath-house-198175/"
+  },
+  {
+    "Property_Name": "5 Bed, 6 Bath Twin Villa for Sale in Chaom Chau 1",
+    "Address": "Chaom Chau 1, Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$228,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "KEY-19-008791",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 60.177595,
+        "longitude": 24.950797,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8791_photo-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8791_photo_1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8791_photo_2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8791_photo_3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8791_photo_4-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chaom-chau-1/5-bed-6-bath-twin-villa-198161/"
+  },
+  {
+    "Property_Name": "11 Bed Villa for Sale & Rent in Mittapheap",
+    "Address": "Mittapheap, 7 Makara, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$5,000,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "KEY-26-014109",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "7 Makara",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "7 Makara",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14109_photo-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14109_photo_1-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14109_photo_2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14109_photo_3-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/14109_photo_4-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/mittapheap/11-bed-villa-198134/"
+  },
+  {
+    "Property_Name": "4 Bed, 5 Bath Twin Villa for Sale in Russey Keo",
+    "Address": "Russey Keo, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$350,000",
+    "Sql_m2": "",
+    "Property Type": "Terrace",
+    "Property ID": "4 weeks ago",
+    "Title": "197962",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Russey Keo"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.61247,
+        "longitude": 104.86881,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Russey Keo"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197962-197962_100455445-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197962-197962_100455463-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197962-197962_100455453_pRWyEoO-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197962-197962_100455458-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197962-197962_100455469-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/russey-keo/4-bed-5-bath-twin-villa-197962/"
+  },
+  {
+    "Property_Name": "2 Bed, 2 Bath Shophouse for Sale in Sala Kamraeuk",
+    "Address": "Dabest Properties , Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$250,000",
+    "Sql_m2": "$2,976/m\u00b2",
+    "Property Type": "Shophouse",
+    "Property ID": "DABEST SRV955",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest  Properties "
+      },
+      "name": "Dabest  Properties ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest  Properties "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-10-of-10-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-1-of-10-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-2-of-10-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-3-of-10-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/untitled-4-of-10-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/dabest-properties-197903/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$85,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197866",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03001-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03003-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02998-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02999-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197866/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$70,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197864",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02993-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02994-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02994-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02996-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197864/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$85,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197863",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02987-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02988-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02989-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-3-bath-house-197863/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$100,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197860",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02971-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02974-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02975-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-3-bath-house-197860/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$90,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197859",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02958-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02960-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02961-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02963-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02965-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-3-bath-house-197859/"
+  },
+  {
+    "Property_Name": "2 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$60,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197858",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02951-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02954-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02947-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02948-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-2-bath-house-197858/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$68,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197857",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02944-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02938_RQk03Eu-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02939_gSdyFrz-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197857/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$75,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197856",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02935-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02938-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02939-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197856/"
+  },
+  {
+    "Property_Name": "2 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$75,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197855",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02928-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02930-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02933-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02934-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-2-bath-house-197855/"
+  },
+  {
+    "Property_Name": "3 Bed, 5 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$110,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197854",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02918-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02921-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02922-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02925-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-5-bath-house-197854/"
+  },
+  {
+    "Property_Name": "6 Bed, 5 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$140,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197853",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02912-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02910-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02911-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/6-bed-5-bath-house-197853/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$73,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197851",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02903-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02905-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02906_Rou8goW-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02899_UPSTrtb-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197851/"
+  },
+  {
+    "Property_Name": "2 Bed, 3 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$65,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197850",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02893-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02897-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02899-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02906-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/2-bed-3-bath-house-197850/"
+  },
+  {
+    "Property_Name": "4 Bed, 4 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$76,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197849",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02881-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02883-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02885-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02886-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/4-bed-4-bath-house-197849/"
+  },
+  {
+    "Property_Name": "3 Bed, 2 Bath House for Sale in Chbar Ampov I",
+    "Address": "Chbar Ampov I, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$150,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "197847",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.52,
+        "longitude": 104.95,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02869-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02868-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02865-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc02866-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.95,11.52)/104.95,11.52,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov-i/3-bed-2-bath-house-197847/"
+  },
+  {
+    "Property_Name": "Villa for Sale & Rent in Nirouth",
+    "Address": "Nirouth, Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$350,000",
+    "Sql_m2": "$2,272/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "1 month ago",
+    "Title": "197830",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.5138878306625,
+        "longitude": 104.9562939610334,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/90c752f2-f5d2-46b5-8aa8-598f4135c22b-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/9ab22ffe-6ed3-4815-8e8f-5c9bb6a6191e-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/391397e6-bd27-40ca-844a-fb8b87a6d976-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/b29332b2-a679-4912-8ce9-4abc00174892-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4af2287b-41c2-44b6-8fe9-f52ae0e444b2-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/nirouth/villa-197830/"
+  },
+  {
+    "Property_Name": "3 Bed, 4 Bath Villa for Sale in Por Sen Chey",
+    "Address": "Por Sen Chey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$188,000",
+    "Sql_m2": "",
+    "Property Type": "Villa",
+    "Property ID": "1 month ago",
+    "Title": "197796",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Por Sen Chey"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.53927,
+        "longitude": 104.7871,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Por Sen Chey"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197796-197796_100360714-thumbnail-750x562-70.jpeg",
+      "https://maps.googleapis.com/maps/api/staticmap?center=11.55,104.91667&zoom=14&size=600x400&path=color:0x8DCA3F%7Cfillcolor:0x8DCA3F35%7Cweight:1%7C11.55899321605919,104.91667%7C11.558905691904165,104.91794752292684%7C11.558644823159433,104.91920017796762%7C11.558215687812423,104.920403581444%7C11.557626639243658,104.92153430865443%7C11.5568891435796,104.92257034995045%7C11.556017556442638,104.92349153923254%7C11.555028843449302,104.92427994651713%7C11.55394224990358,104.92492022692963%7C11.552778926121382,104.92539991933013%7C11.551561515685552,104.925709688763%7C11.550313714651665,104.92584350801847%7C11.549059810288991,104.92579877478269%7C11.547824208337754,104.92557636210849%7C11.546630957985592,104.92518060123871%7C11.545503283808417,104.92461919713057%7C11.544463133783566,104.92390307833868%7C11.54353075216852,104.92304618418987%7C11.54272428555307,104.92206519340144%7C11.542059429746272,104.92097919942967%7C11.541549124364119,104.9198093388697%7C11.54120330105562,104.91857838013638%7C11.541028690261486,104.91731028042621%7C11.541028690261486,104.91602971957376%7C11.54120330105562,104.91476161986361%7C11.541549124364119,104.91353066113028%7C11.542059429746272,104.91236080057033%7C11.54272428555307,104.91127480659856%7C11.54353075216852,104.91029381581009%7C11.544463133783566,104.9094369216613%7C11.545503283808417,104.9087208028694%7C11.546630957985592,104.90815939876128%7C11.547824208337754,104.9077636378915%7C11.549059810288991,104.90754122521727%7C11.550313714651665,104.90749649198149%7C11.551561515685552,104.90763031123697%7C11.552778926121382,104.90794008066985%7C11.55394224990358,104.90841977307034%7C11.555028843449302,104.90906005348283%7C11.556017556442638,104.90984846076744%7C11.5568891435796,104.91076965004953%7C11.557626639243658,104.91180569134553%7C11.558215687812423,104.91293641855596%7C11.558644823159433,104.91413982203235%7C11.558905691904165,104.91539247707314%7C11.55899321605919,104.91667&key=AIzaSyA4-kQKp3iC5Xx005ZoK6VNLV-sH0QimvI"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/por-sen-chey/3-bed-4-bath-villa-197796/"
+  },
+  {
+    "Property_Name": "Villa for Sale in Kep",
+    "Address": "Kep, Kep, Kep",
+    "Prefix": 0,
+    "Price": 0,
+    "Sql_m2": 0,
+    "Property Type": "Villa",
+    "Property ID": "197759",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Kep",
+        "addressLocality": "Kep",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 10.483750323744758,
+        "longitude": 104.31741991524194,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Kep",
+          "addressLocality": "Kep",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1_omSdLbX-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/2_QU0D4F2-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/3_2BF2bfA-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/4_3khQAXL-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/8_aVKqabx-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/kep/villa-197759/"
+  },
+  {
+    "Property_Name": "2 Bed, 2 Bath Villa for Sale in Srangae",
+    "Address": "Dabest Properties , Srangae, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$320,000",
+    "Sql_m2": "$296/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV956",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest  Properties "
+      },
+      "name": "Dabest  Properties ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.38,
+        "longitude": 103.83,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest  Properties "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-11_14-52-13-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-11_14-52-07-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1_mKmsdrQ-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-11_14-51-51-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/photo_2021-12-11_14-51-26-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/srangae/dabest-properties-197643/"
+  },
+  {
+    "Property_Name": "5 Bed, 6 Bath Shophouse for Sale in Boeung Tumpun 2",
+    "Address": "Boeung Tumpun 2, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$195,000",
+    "Sql_m2": "",
+    "Property Type": "Shophouse",
+    "Property ID": "197639",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey",
+        "streetAddress": " "
+      },
+      "name": " ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey",
+          "streetAddress": " "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03163-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03165-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03166-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03167-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.93,11.55)/104.93,11.55,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-tumpun-2/5-bed-6-bath-shophouse-197639/"
+  },
+  {
+    "Property_Name": "9 Bed, 12 Bath Shophouse for Sale in Boeung Tumpun 2",
+    "Address": "Boeung Tumpun 2, Meanchey, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$210,000",
+    "Sql_m2": "$1,000/m\u00b2",
+    "Property Type": "Shophouse",
+    "Property ID": "197637",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Meanchey",
+        "streetAddress": "  "
+      },
+      "name": "  ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.55,
+        "longitude": 104.93,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Meanchey",
+          "streetAddress": "  "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03158-edited-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03159-edited-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/dsc03161-thumbnail-400x300-70.jpeg",
+      "https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/pin-l+3FB1CE(104.93,11.55)/104.93,11.55,11/600x400?access_token=pk.eyJ1IjoiZGNnbWFwIiwiYSI6ImNrN3d4eG1wMDA2NXQzZXBhaWVrNnVidnQifQ.F8Xcd5VErSP2XWSW-40fzw"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/boeung-tumpun-2/9-bed-12-bath-shophouse-197637/"
+  },
+  {
+    "Property_Name": "4 Bed, 4 Bath House for Sale in Sala Kamraeuk",
+    "Address": "Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$170,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "DV834",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "   "
+      },
+      "name": "   ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.35,
+        "longitude": 103.86,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "   "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_8682-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_8691-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_8697-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_8715-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/img_8707-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/4-bed-4-bath-house-197607/"
+  },
+  {
+    "Property_Name": "8 Bed, 6 Bath Villa for Sale in Ta Khmao",
+    "Address": "St.21, Ta Khmao, Ta Khmau, Kandal",
+    "Prefix": "For sale",
+    "Price": "$1,600,000",
+    "Sql_m2": "$5,000/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "1 month ago",
+    "Title": "197596",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Kandal",
+        "addressLocality": "Ta Khmau",
+        "streetAddress": "St.21"
+      },
+      "name": "St.21",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.462893448638981,
+        "longitude": 104.95505798326644,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Kandal",
+          "addressLocality": "Ta Khmau",
+          "streetAddress": "St.21"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/33584842-4df2-4462-81df-cd8e0a7e598e-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/c3ab7cdf-04cf-4028-a8b1-29ac1e795184-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/1843d8cd-95b2-4df7-9adb-1cb3ca821748-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/12806146-41f8-49e0-9c5e-a5e1fe37b0b5-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/d3dbf6cc-4141-4e84-a68d-d85a8683c6bd-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/ta-khmao/st21-197596/"
+  },
+  {
+    "Property_Name": "6 Bed, 6 Bath Villa for Sale in Sangkat Sambuor",
+    "Address": "Dabest Properties , Sangkat Sambuor, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$1,300,000",
+    "Sql_m2": "$227/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV944",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest  Properties "
+      },
+      "name": "Dabest  Properties ",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.36070925419159,
+        "longitude": 103.85914451893007,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest  Properties "
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/1y3a9125-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/1y3a9076-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/1y3a9134-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/1y3a9079-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-07/1y3a9102-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sangkat-sambuor/dabest-properties-185990/"
+  },
+  {
+    "Property_Name": "6 Bed, 7 Bath Villa for Sale in Sala Kamraeuk",
+    "Address": "Dabest Properties, Sala Kamraeuk, Siem Reap, Siem Reap",
+    "Prefix": "For sale",
+    "Price": "$1,950,000",
+    "Sql_m2": "$929/m\u00b2",
+    "Property Type": "Villa",
+    "Property ID": "DABEST SRV948",
+    "Title": "Hard Title",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Siem Reap",
+        "addressLocality": "Siem Reap",
+        "streetAddress": "Dabest Properties"
+      },
+      "name": "Dabest Properties",
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 13.362879840296287,
+        "longitude": 103.85948425849574,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Siem Reap",
+          "addressLocality": "Siem Reap",
+          "streetAddress": "Dabest Properties"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-10/untitled-4-of-12-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-10/untitled-9-of-12-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-10/untitled-11-of-12-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-10/untitled-12-of-12-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-09/untitled-7-of-32-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/sala-kamraeuk/dabest-properties-193850/"
+  },
+  {
+    "Property_Name": "3 Bed, 3 Bath House for Sale in Chbar Ampov",
+    "Address": "Chbar Ampov, Phnom Penh",
+    "Prefix": "For sale",
+    "Price": "$135,000",
+    "Sql_m2": "",
+    "Property Type": "House",
+    "Property ID": "1 month ago",
+    "Title": "197521",
+    "Location": {
+      "@context": "http://schema.org",
+      "@type": "Residence",
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Phnom Penh",
+        "addressLocality": "Chbar Ampov"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 11.50621,
+        "longitude": 104.9973,
+        "address": {
+          "@type": "PostalAddress",
+          "addressRegion": "Phnom Penh",
+          "addressLocality": "Chbar Ampov"
+        }
+      }
+    },
+    "Image": [
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197521-197521_100253949-thumbnail-750x562-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197521-197521_100253951-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197521-197521_100253953-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197521-197521_100253950-thumbnail-400x300-70.jpeg",
+      "https://images.realestate.com.kh/__sized__/listings/2021-12/197521-197521_100253952_qisI9Ef-thumbnail-400x300-70.jpeg"
+    ],
+    "Url": "https://www.realestate.com.kh/buy/chbar-ampov/3-bed-3-bath-house-197521/"
+  }
+]

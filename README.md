@@ -15,8 +15,9 @@ download any 'chromedriver' version much Version ( 97 of chrome )
 URL = 'https://chromedriver.chromium.org/downloads'
 
 eg: linux OS
-guide : after download file 'chromedriver_linux64.zip'
-put the file in the folder contain the project "automate_test_selenium_python"
+guide : after download file 'chromedriver_linux64.zip' Extract 'ZIP' file
+put the file in the folder contain the project :
+"/automate_test_selenium_python/selenium_chrome/drivers"
 
 ### how to run script
 

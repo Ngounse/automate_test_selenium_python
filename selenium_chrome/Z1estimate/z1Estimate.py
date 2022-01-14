@@ -94,7 +94,7 @@ def fun_fill_estimate_form(*args, **kwargs):## fill estimate form
 def fun_get_estimate_price():## get estimate price
   try:
     var_estimate_price = FEM_ANY(By.CSS_SELECTOR, 'strong')
-    # print(var_estimate_price.text)
+    print(var_estimate_price.text)
   except Exception as err : print("err :")
   
 def fun_close_estimate_form():## fill estimate form
